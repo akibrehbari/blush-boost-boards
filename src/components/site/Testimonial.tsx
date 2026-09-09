@@ -33,7 +33,7 @@ export function Testimonial() {
             <div className="space-y-6">
               <div className="rounded-2xl border border-white/10 bg-white/[0.02] p-6">
                 <div className="text-5xl font-extrabold tracking-tight text-[var(--pink)]">
-                  $12,400<span className="text-white/40 text-2xl">/mo</span>
+                  $124,000<span className="text-white/40 text-2xl">/mo</span>
                 </div>
                 <div className="mt-2 text-sm text-white/55">After 6 months on the program</div>
               </div>
