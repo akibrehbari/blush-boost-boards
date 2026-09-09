@@ -3,12 +3,12 @@ import { motion, useAnimationFrame } from "framer-motion";
 import { BadgeCheck, Instagram } from "lucide-react";
 
 const MODELS = [
-  { name: "Sophia Lane", ig: "sophialane", followers: "1.2M", earn: "$112K/mo", img: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=600&q=80" },
-  { name: "Amelia Cruz", ig: "ameliacruz", followers: "1.8M", earn: "$185K/mo", img: "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&fit=crop&w=600&q=80" },
-  { name: "Jordan Reyes", ig: "jordanreyes", followers: "940K", earn: "$124K/mo", img: "https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?auto=format&fit=crop&w=600&q=80" },
-  { name: "Mia Chen", ig: "miachen", followers: "1.5M", earn: "$147K/mo", img: "https://images.unsplash.com/photo-1545912452-8aea7e25a3d3?auto=format&fit=crop&w=600&q=80" },
-  { name: "Camille Park", ig: "camillepark", followers: "2.3M", earn: "$221K/mo", img: "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=600&q=80" },
-  { name: "Eva Romano", ig: "evaromano", followers: "1.1M", earn: "$103K/mo", img: "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=600&q=80" },
+  { name: "Sophia Lane", ig: "sophialane", followers: "284K", earn: "$11.2K/mo", img: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=600&q=80" },
+  { name: "Amelia Cruz", ig: "ameliacruz", followers: "412K", earn: "$18.5K/mo", img: "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&fit=crop&w=600&q=80" },
+  { name: "Jordan Reyes", ig: "jordanreyes", followers: "198K", earn: "$8.4K/mo", img: "https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?auto=format&fit=crop&w=600&q=80" },
+  { name: "Mia Chen", ig: "miachen", followers: "356K", earn: "$14.7K/mo", img: "https://images.unsplash.com/photo-1545912452-8aea7e25a3d3?auto=format&fit=crop&w=600&q=80" },
+  { name: "Camille Park", ig: "camillepark", followers: "521K", earn: "$22.1K/mo", img: "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=600&q=80" },
+  { name: "Eva Romano", ig: "evaromano", followers: "267K", earn: "$10.3K/mo", img: "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=600&q=80" },
 ];
 
 const RADIUS = 280;
