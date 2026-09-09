@@ -13,7 +13,7 @@ export function Testimonial() {
               <blockquote className="relative text-3xl md:text-4xl lg:text-5xl font-semibold tracking-tight leading-[1.15] text-white">
                 I was skeptical at first, but this completely changed my life.
                 Within 3 months, I went from making nothing to earning over
-                <span className="text-[var(--pink)]"> $10,000 a month.</span>
+                <span className="text-[var(--pink)]"> $120,000 a month.</span>
               </blockquote>
               <div className="mt-8 flex items-center gap-4">
                 <img

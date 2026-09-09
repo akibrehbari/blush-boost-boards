@@ -88,8 +88,8 @@ export function Hero() {
           className="grid w-full max-w-3xl grid-cols-3 gap-4 sm:gap-10 mt-12"
         >
           {[
-            { v: 500, suffix: "+", label: "Active Models" },
-            { v: 2, prefix: "$", suffix: "M+", label: "Model Earnings" },
+            { v: 2400, suffix: "+", label: "Active Models" },
+            { v: 180, prefix: "$", suffix: "M+", label: "Model Earnings" },
             { v: 100, suffix: "%", label: "Safe & Verified" },
           ].map((s, i) => (
             <div key={i} className="flex flex-col items-center">
